@@ -1,8 +1,17 @@
-# React + Vite
+# Food Order App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="justify"> The Food Order App features a responsive and user-friendly interface for browsing and ordering food. It includes category wise menu views, smooth navigation, easy order placement, also a clean and modern design. Users can sign up and log in to personalize their experience, all within an interface that works seamlessly across all devices. <div>
 
-Currently, two official plugins are available:
+# Languages Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+</ul>
+
+# Live Demo
+
+[https://suhail-ahmad-food-order.netlify.app/](https://suhail-ahmad-food-order.netlify.app/)
+
