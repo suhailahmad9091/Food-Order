@@ -13,5 +13,5 @@
 
 # Live Demo
 
-[https://suhail-ahmad-food-order.netlify.app/](https://suhail-ahmad-food-order.netlify.app)
+[https://suhail-ahmad-food-order.netlify.app](https://suhail-ahmad-food-order.netlify.app)
 
