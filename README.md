@@ -2,7 +2,7 @@
 
 <div align="justify"> The Food Order App features a responsive and user-friendly interface for browsing and ordering food. It includes category wise menu views, smooth navigation, easy order placement, also a clean and modern design. Users can sign up and log in to personalize their experience, all within an interface that works seamlessly across all devices. <div>
 
-# Languages Used
+# Tech Stack Used
 
 <ul>
   <li>HTML</li>
